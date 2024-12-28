@@ -1,5 +1,5 @@
 # Todo List
 
 ## Personal
-- [ ] Decrease Opacity in banner image
+- [x] Decrease Opacity in banner image
 
