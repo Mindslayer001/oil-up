@@ -122,6 +122,11 @@ h6,
     background-size: cover;
 }
 
+.hero-header1 {
+    background: url(../img/image2.png) top right no-repeat;
+    background-size: cover;
+}
+
 .btn-play {
     position: relative;
     display: block;
